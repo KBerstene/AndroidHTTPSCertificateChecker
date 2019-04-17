@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HTTPSCertChecker</string>
+    <string name="subjectTitle">Subject:</string>
+    <string name="noneText">None</string>
+    <string name="issuerTitle">Issuer:</string>
+    <string name="sanTitle">Subject Alternative Names:</string>
+    <string name="fullCertTitle">Full Certificate:</string>
+    <string name="defaultHttpsUrl">https://letsencrypt.org</string>
+    <string name="httpsEditTextHint">HTTPS website address</string>
+    <string name="test">Test</string>
+</resources>
